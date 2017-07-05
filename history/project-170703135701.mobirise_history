@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Azienda Agricola Vignacci - English",
-    "currentPage": "ospitalita_turistica.html",
+    "currentPage": "bottega_contadino.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -37,7 +37,7 @@
     "main.html": {
       "settings": {
         "main": true,
-        "title": "Vignacci County Farm",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -75,15 +75,15 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Vignacci County Farm",
+          "title": "Agriturismo Vignacci<br><span style=\"font-weight: normal;\">Azienda Agricola</span>",
           "text": "Seleziona la tua lingua -&nbsp;Select your language -&nbsp;Whälen Sie Ihre sprache",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"it/home.html\" data-toolbar=\"-mbrBtnMove\">Italiano</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"en/home.html\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"de/home.html\" data-toolbar=\"-mbrBtnMove\">Deutsch</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.html\" data-toolbar=\"-mbrBtnMove\">Italiano</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.en.html\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.de.html\" data-toolbar=\"-mbrBtnMove\">Deutsch</a> "
         }
       ]
     },
     "home.html": {
       "settings": {
-        "title": "Vignacci County Farm",
+        "title": "",
         "meta_descr": "",
         "order": 1
       },
@@ -172,7 +172,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">Italiano / Deutsch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ospitalita_turistica.html\">Ospitality</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bottega_contadino.html\">Farmers's Shop</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#header3-h\">News</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#gallery2-1e\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#contacts2-g\"><br>Location &amp; Contacts<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Deutsch</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ospitalita_turistica.html\">Ospitalità Turistica</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bottega_contadino.html\">La Bottega del contadino</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#header3-h\">News</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#gallery2-1e\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html#contacts2-g\">Dove siamo e come contattarci</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -231,9 +231,9 @@
               "size": 0
             }
           },
-          "title": "Ospitality",
-          "text": "Vignacci Farm was born in 2004 thanks to a strong farming history of our ancestors.<br>In the 20's they grown vines and olive trees and they bred livestock.<br>We are quite happy to show to all of you how much we managed to preserve our history, culture and traditions.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ospitalita_turistica.html\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
+          "title": "Ospitalità Turistica",
+          "text": "L' Agriturismo Vignacci nasce nel 2004 forte della storica azienda agricola appartenuta ai nostri avi.<br>Già nel 1920 coltivavano viti, olivi e allevavano bestiame.<br>Oggi forti di decenni di esperienza siamo lieti di mostrarvi quanto siamo riusciti a conservare in fatto di storia, cultura e tradizione!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ospitalita_turistica.html\" data-toolbar=\"-mbrBtnMove\">Entra</a>"
         },
         {
           "_tags": [
@@ -292,9 +292,9 @@
               "size": 0
             }
           },
-          "title": "Farmer's Shop",
-          "text": "<br>We couldn't miss a characteristic shop in the middle of the village Suvereto that gave us the opportunity to present our farm products and much more...<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"bottega_contadino.html\" data-toolbar=\"-mbrBtnMove\">Enter</a>"
+          "title": "La Bottega del Contadino",
+          "text": "Non poteva mancare una bottega all'interno del borgo di Suvereto dove abbiamo la possibilità di presentarvi i prodotti che l'azienda agricola produce ma non solo!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"bottega_contadino.html\" data-toolbar=\"-mbrBtnMove\">Entra</a>"
         },
         {
           "_styles": {
@@ -313,7 +313,7 @@
             "bgColor": "#b8ede2",
             "showMeta": false
           },
-          "title": "Facebook News",
+          "title": "Le nostre news direttamente da Facebook",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -791,8 +791,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Agrturismo Vignacci, azienda agricola<br>Località Vignacci 185/A<br>57028, Suvereto (LI)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@vignacci.it<br>Telefono: +39 339 498 89 75<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>How to reach out to us</strong></p><ul><li>In the nearest of a small and ancient village called Suvereto&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.8;\">you can find our county farm.</span></li><li>You can find road signs on S.S. 398 road as just as you app\u001broach Suvereto village.</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Take the exit \"Venturina\" from the nearest highway and follow the diretion toward \"Suvereto\". It lasts 11 km to reach your destination.</span></li><li>By train the main and nearest station is \"Campiglia Marittima\".</li></ul>"
+          "text1": "<strong>Indirizzo</strong><br>Agrturismo Vignacci, azienda agricola<br>Località Vignacci 185/A<br>57028, Suvereto (LI)<br><br><br>\n<strong>Contatti</strong><br>\nEmail: info@vignacci.it<br>Telefono: +39 339 498 89 75<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Come raggiunerci</strong></p><ul><li>A 200 MT dal borgo Medievale di Suvereto (Costa degli Etruschi) sorge Vignacci.</li><li>Entrando in Suvereto dalla S.S. 398 si incontrano le indicazioni.</li><li>Dalla variante Aurelia in direzione sia Grosseto che Livorno l'uscita è Venturina, di lì seguendo le indicazioni per Suvereto dopo 11 km si arriva a noi.</li><li>In treno la stazione ferroviaria è Campiglia M.ma.</li></ul>"
         },
         {
           "_tags": [
@@ -818,7 +818,7 @@
     },
     "bottega_contadino.html": {
       "settings": {
-        "title": "Farmer's Shop",
+        "title": "",
         "meta_descr": "",
         "order": 2
       },
@@ -908,7 +908,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">Italiano / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1641,7 +1641,7 @@
     },
     "ospitalita_turistica.html": {
       "settings": {
-        "title": "Ospitality",
+        "title": "",
         "meta_descr": "",
         "order": 3
       },
@@ -1731,7 +1731,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">Italiano / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/main.html\">English / Deutsch</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1758,9 +1758,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Ospitality in the Tuscany Countryside",
-          "text": "Vignacci Farm has 4 lovely apartments, all arranged straight into the farm main building.<br>Each one has 4 sleeping accomodations and we can add an extra small bed.<br><br>During your stay you can benefit from air-conditioned bedroom, TV, kitchen area. There are a quite big outside area and a wide swimming pool with beach chairs and umbrellas.<br>It's also available a small laundry room and an outdoor grill available to all guests.<br><br>Location and size of our farm will see to enjoy happy holidays with absolute calmness. You will balance yourself with the nature living Suvereto countryside. You are only 200 meters from the village center and 10 minutes from the beach.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Apartments</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#pricing-table1-u\" data-toolbar=\"-mbrBtnMove\">Prices</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#form1-v\" data-toolbar=\"-mbrBtnMove\">Booking</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#contacts2-g\" data-toolbar=\"-mbrBtnMove\">Location &amp; Contacts</a> "
+          "title": "Ospitalità nella campagna Toscana",
+          "text": "L'agriturismo Vignacci si compone di 4 graziosi appartamenti ricavati nella casa poderale.<br>Ognuno di essi conta 4 posti letto.&nbsp;Alla necessità nelle camere si può aggiungere un lettino.<br><br>Faranno da cornice ai vostri soggiorni camere climatizzate, TV, angoli cottura, spazio esterno a disposizione per tranquilli momenti di relax e un ampia ed attrezzata piscina.<br>É disponibile anche un piccolo locale lavanderia e un barbecue a uso comune.<br><br>La particolare ubicazione e le dimensioni ridotte della struttura faranno si che possiate trascorrere allegre settimane di vacanza in assoluta tranquillità in armonia con la natura e i suoi ritmi blandi in campagna, a soli 200 mt. dal paese e 10 minuti di auto dal mare.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Appartamenti</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#pricing-table1-u\" data-toolbar=\"-mbrBtnMove\">Prezzi</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#form1-v\" data-toolbar=\"-mbrBtnMove\">Prenotazione</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ospitalita_turistica.html#contacts2-g\" data-toolbar=\"-mbrBtnMove\">Dove siamo e come contattarci</a> "
         },
         {
           "_styles": {
@@ -1782,8 +1782,8 @@
             "bgColor": "#b8ede2",
             "showMeta": true
           },
-          "title": "Apartment La Mimosa",
-          "meta": "It takes the name from the small mimosa tree grown in front of the apartment.<br>The place was the cattleshed.<br><br>There is a private porch at the entrance of the apartment, thus you can restore yourself from the summer hot weather and relax as much as possible.<br>50 squared meters: air-conditioned bedroom with 2 lodging (we can add a small extra bed for a supplemental sleeping accomodation), bathroom, living room with kitchen area comprehensive of microwave oven and all the necesary to cook, sofabed with 2 more sleeping accomodation in the livingroom with TV.<br><br>Especially in May, staying in this apartment, you can enjoy the aroma of Tuscany spring and its colors as well.<br> \n"
+          "title": "Appartamento La Mimosa",
+          "meta": "<br>Prende il nome dal piccolo albero di mimosa che cresce dirimpetto  all’appartamento.<br>La sistemazione prende forma nell’antica stalla.<br><br>Un portico privato davanti alla porta d’ingresso, di semplice costruzione per le vostre serate di ritempro dalla calura estiva.\n<br>Poco più di 50 mtq, camera matrimoniale climatizzata, bagno, soggiorno con angolo cottura e altri due posti letto in un vano a scomparsa, TV, forno a microonde e tutto il necessario per cucinare.<br>Nella camera si può aggiungere un lettino.<br><br>Essendo questa sistemazione volta nella campagna soprattutto  nel mese di  Maggio lascia ben odere e scorgere profumi e colori della nostra terra Toscana nel pieno del suo rigoglioso estro.<br><br> \n"
         },
         {
           "_inherit": "gallery1",
@@ -1861,7 +1861,7 @@
             "bgColor": "#635f5f",
             "showMeta": true
           },
-          "title": "Apartment Il Cipresso",
+          "title": "Appartamento Il Cipresso",
           "meta": "<br>Prende il nome dal maestoso cipresso femmina che troneggia sul giardino fiorito di Vignacci.<br><br>In questi locali si trovava il trinciaforaggio, era “la cucina” della stalla, qui si preparava “la Trita” paglia e fieno trinciato  che inumidito assieme alla farina di orzo diventava un piatto appetitoso per le bovine che davano il latte e facevano i lavori di trazione nel podere fino agli anni ‘50.<br>Si vedono ancora le porte che davano accesso diretto al granaio e alla muccheria.<br><br>Situato nel centro della casa in posizione ben assolata con vista sulla piscina sarà la sistemazione ideale per la vostra vacanza in Toscana.<br>Dal portico di semplice costruzione davanti all’ingresso si gode di sera di una vista emozionate sulla piscina illuminata di azzurro e sulla val di cornia.<br>Anche per questo appartamento  4 posti letto divisi in camera matrimoniale e divano letto in soggiorno,ampio bagno con doccia, angolo cottura, microonde tv sat e climatizzazione.<br><br>La tranquillità del luogo e l’ampiezza degli spazi vi regaleranno momenti di relax indimenticabili.<br><br>\n"
         },
         {
@@ -1954,7 +1954,7 @@
             "bgColor": "#b8ede2",
             "showMeta": true
           },
-          "title": "Apartment Gli Olivi",
+          "title": "Appartamento Gli Olivi",
           "meta": "<br>Due olivi plurisecolari datati dall’università di Pisa come risalenti al 1700.<br>Questi  giganti buoni incorniceranno la vostra vista sulla Val di cornia dalla finestra di questo appartamento.<br><br>L’appartamento degli olivi è il più spazioso dei  4; circa 60 mtq, un’ampia camera con tre posti letto, un ampio soggiorno con angolo cottura e altri due posti letto in un vano a scomparsa.<br>Ampio bagno con doccia, un piccolo giardinetto privato e recintato da una cornice fiorita che include un gazebo esagonale, tavolo e sedie ideale per chi viene in vacanza con i suoi amici a 4 zampe che possono qui stare liberi senza pericolo di allontanarsi.<br><br>Anche questo appartamento come tutti gli altri è completo di tutto l’occorrente per cucinare.<br><br>\n"
         },
         {
@@ -2083,7 +2083,7 @@
             "bgColor": "#635f5f",
             "showMeta": true
           },
-          "title": "Apartment Il Mandorlo",
+          "title": "Appartamento Il Mandorlo",
           "meta": "<br>Un simpatico terratetto ricavato nella vecchia cantina.<br>Si vedono ancora nel soffitto i ganci ai quali venivano appesi  i prosciutti a stagionare.<br><br>Un mandorlo decora graziosamente con i suoi fiori già dai primi giorni di febbraio la vista dalla finestra.<br>Ideale per chi cerca la privacy situato nel retro della casa al riparo da rumori di ogni sorta.<br>La camera climatizzata con il bagno al piano superiore, dotata di tv, lascia la vista su suvereto e sulla campagna circostante.<br><br>La cucina al pian terreno, &nbsp;con angolo cottura con tutte le dotazioni come gli altri appartamenti, offre ampio spazio per il soggiorno all’insegna della tranquillità.<br>Un piccolo giardino privato e recintato con gazebo, tavolo e sedie per le Vostre cene all’aperto al fresco della sera.<br>Una ampia scala a chiocciola in pianta quadra esterna unisce le due stanze.<br><br>Questa sistemazione è tante volte preferita da chi viene in vacanza con il proprio amico a 4 zampe in quanto viene facile inibire l’accesso alla camera da letto al piano superiore qualora si voglia e il giardinetto esterno recintato consente di lasciarlo libero con una minima sorveglianza.<br><br>"
         },
         {
@@ -2186,9 +2186,6 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
-            },
-            "P": {
-              "text-align": "center"
             }
           },
           "_tags": [
@@ -2219,34 +2216,34 @@
             "thirdType": "",
             "fourthType": "hidden"
           },
-          "title": "Prices",
+          "title": "Prezzi",
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
-          "title1": "High Season",
-          "subtitle1": "Since 30th of &nbsp;June\u001b\u001b, to 1st of &nbsp;September<br><br>",
+          "title1": "Alta Stagione",
+          "subtitle1": "dal 30 Giugno al 1 Settembre",
           "currency1": "€",
           "price1": "750,00",
-          "period1": "/week",
-          "description1": "During July and August there is a minum of 7 days of reservation &nbsp;unless special arrangement.<br>",
-          "list1": "<p>&nbsp; &nbsp;The washing machine is coin operated</p><p>Your dogs are welcome</p><p>Swimming pool, outdoor grill, parking and outside space are free</p><p></p><p></p>",
+          "period1": "/sett.",
+          "description1": "Nei periodi di Luglio e Agosto non si accettano soggiorni per periodi inferiori a 7 giorni se non per accordi particolari",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">La lavatrice è a gettoni</li><li class=\"list-group-item\">I vostri cani sono i benvenuti!</li><li class=\"list-group-item\">Piscina, barbecue, parcheggio coperto, e uso dello spazio esterno sono compresi</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "label2": "",
-          "title2": "Average Season",
-          "subtitle2": "Since 26th of May , to 29th of June ; since 2nd of Septmeber, to 29th of September",
+          "title2": "Media Stagione",
+          "subtitle2": "dal 26 Maggio al 29 Giugno ; dal 2 Settembre al 29 Settembre",
           "currency2": "€",
           "price2": "540",
-          "period2": ",00/week",
-          "description2": "Prices are per week; arrival at Saturday after 5 p.m. &nbsp;and leaving on Saturday by 10 a.m.",
-          "list2": "The washing machine is coin operated<div><br></div><div>Your dogs are welcome</div><div><br></div><div>Swimming pool, outdoor grill, parking and outside space are free</div>",
+          "period2": ",00/sett.",
+          "description2": "I prezzi sono riferiti a una settimana con arrivo il Sabato dopo le 17 e partenza il Sabato entro le 10",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">La lavatrice è a gettoni</li><li class=\"list-group-item\">I vostri cani sono i benvenuti!</li><li class=\"list-group-item\">Piscina, barbecue, parcheggio coperto, e uso dello spazio esterno sono compresi</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "label3": "HOT!",
-          "title3": "Low Season",
-          "subtitle3": "All other dates<br><br>",
+          "title3": "Bassa Stagione",
+          "subtitle3": "tutti i rimanenti periodi",
           "currency3": "€",
           "price3": "450,00",
-          "period3": "/week",
+          "period3": "/sett.",
           "description3": "<br><br>",
-          "list3": "The washing machine is coin operated<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Your dogs are welcome</div><div><br></div><div>Swimming pool, outdoor grill, parking and outside space are free</div>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">La lavatrice è a gettoni</li><li class=\"list-group-item\">I vostri cani sono i benvenuti!</li><li class=\"list-group-item\">Piscina, barbecue, parcheggio coperto, e uso dello spazio esterno sono compresi</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
@@ -2287,18 +2284,18 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Contact us to book a vacation on our farm",
-          "subtitle": "We will be in touch with you as soon as possible",
+          "title": "Contattaci per prenotare un periodo di vacanza da noi",
+          "subtitle": "Ti risponderemo nel minor tempo possibile",
           "form": {
             "action": "info@vignacci.it",
             "alerts": {
-              "success": "Thanks for your message, we will be in touch with you as soon as possible."
+              "success": "Grazie pe aver invato il messaggio, ti risponderemo nel minor tempo possibile."
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Nome*"
               },
               "email": {
                 "title": "Email",
@@ -2308,15 +2305,15 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Telefono"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Messaggio"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Invia</a>"
         },
         {
           "_tags": [
@@ -2342,8 +2339,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Agrturismo Vignacci, azienda agricola<br>Località Vignacci 185/A<br>57028, Suvereto (LI)<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@vignacci.it<br>Telefono: +39 339 498 89 75<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>How to reach out to us</strong></p><ul><li>In the nearest of a small and ancient village called Suvereto&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.8;\">you can find our county farm.</span></li><li>You can find road signs on S.S. 398 road as just as you app\u001broach Suvereto village.</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Take the exit \"Venturina\" from the nearest highway and follow the diretion toward \"Suvereto\". It lasts 11 km to reach your destination.</span></li><li>By train the main and nearest station is \"Campiglia Marittima\".</li></ul>"
+          "text1": "<strong>Indirizzo</strong><br>Agrturismo Vignacci, azienda agricola<br>Località Vignacci 185/A<br>57028, Suvereto (LI)<br><br><br>\n<strong>Contatti</strong><br>\nEmail: info@vignacci.it<br>Telefono: +39 339 498 89 75<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Come raggiunerci</strong></p><ul><li>A 200 MT dal borgo Medievale di Suvereto (Costa degli Etruschi) sorge Vignacci.</li><li>Entrando in Suvereto dalla S.S. 398 si incontrano le indicazioni.</li><li>Dalla variante Aurelia in direzione sia Grosseto che Livorno l'uscita è Venturina, di lì seguendo le indicazioni per Suvereto dopo 11 km si arriva a noi.</li><li>In treno la stazione ferroviaria è Campiglia M.ma.</li></ul>"
         },
         {
           "_tags": [
